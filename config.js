@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282136031499']
+global.owner = ['6282136031499','nomor lu']
 global.premium = ['6282136031499']
-global.packname = 'IPANG STORE'
+global.packname = 'IPANG REAL'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'IPANG BOTZ'
 global.prefa = ['','!','.','🐦','🐤','🗿']
